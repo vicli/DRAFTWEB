@@ -2,7 +2,7 @@
 layout: post_page
 title: "brass rat thoughts"
 description: ""
-category: 
+category: me
 tags: []
 ---
 
